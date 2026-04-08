@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,arduino,cpp" />
 </p>
 
-- **Linguagens e Tecnologias:** HTML, CSS, C++, C, Arduino.
+- **Linguagens e Tecnologias:** HTML, CSS, C++, C, CLP, Microcontroladores.
 - **Área de estudo:** Sistemas de Informação.
 
 ---
