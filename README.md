@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 💻 Estudante de **Sistemas de Informação** na USP  
 🔧 Me aprofundando em resoluções de problemas em C  
 
 ---
 
-## 🛠 Habilidades
+## Habilidades
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,arduino,cpp" />
 </p>
@@ -26,7 +26,7 @@
 
 ---
 
-## 📬 Conecte-se comigo
+## Conecte-se comigo
 <p align="center">
   <a href="mailto:enzo.hdribeiro@gmail.com ; enzo_henrique@usp.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/enzo-henrique-dias-ribeiro-978046314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
