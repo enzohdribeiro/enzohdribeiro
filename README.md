@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=4DADF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1+%F0%9F%91%8B%2C+Eu+sou+o+Enzo+Henrique!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=4DADF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1+%F0%9F%91%8B%2C+Me+chamo+Enzo+Henrique!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;" alt="Typing SVG" />
 </p>
 
 <!-- Profile Image -->
