@@ -12,7 +12,7 @@
 
 ## Sobre mim
 💻 Estudante de **Sistemas de Informação** na USP  
-🔧 Me aprofundando em resoluções de problemas em C  
+🔧 Me aprofundando C, Java, DSA e Springboot  
 
 ---
 
